@@ -18,9 +18,10 @@ Built with **Next.js**, **TypeScript**, and modern web technologies.
 We believe in openness and transparency. That's why everything is built in public with the goal of progressive decentralization.
 
 ## Installation & Setup
+
 ```bash
-yarn install
-yarn start:devv
+- yarn install
+- yarn start:devv
 
 Open http://localhost:8080 to view it locally.
 
