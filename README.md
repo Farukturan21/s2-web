@@ -25,6 +25,7 @@ yarn start:dev
 
 Open http://localhost:8080 to view it locally.
 
+
 Contributing-
 
 We welcome contributions from the community!
@@ -37,7 +38,7 @@ Commit your changes
 Push to the branch
 Open a Pull Request
 
-Contributors
+Contributors-
 
 @Farukturan21 — Extended README documentation and improvements
 Thank you to everyone who contributes to making Talent Protocol better! 
