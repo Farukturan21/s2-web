@@ -9,3 +9,5 @@ yarn start:dev
 ```
 
 Open [http://localhost:8080](http://localhost:8080) with your browser to see the result.
+## Contributor
+Thanks to [@Faruk19110473](https://github.com/Faruk19110473) for contributing to the README.
