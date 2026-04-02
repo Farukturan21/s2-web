@@ -19,3 +19,13 @@ Season 2 brings improved Builder Rank, Impact metrics, better user experience, a
 ```bash
 yarn install
 yarn start:dev
+ContributingWe welcome contributions from the community!How to ContributeFork the project
+Create your feature branch (git checkout -b feature/amazing-feature)
+Commit your changes
+Push to the branch
+Open a Pull Request
+
+Contributors @Farukturan21 — Complete README rewrite and documentation improvements
+ContributingWe welcome contributions from the community!
+Thank you to everyone who contributes to making Talent Protocol better! 
+
