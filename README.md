@@ -26,9 +26,11 @@ yarn start:dev
 Open http://localhost:8080 to view it locally.
 
 Contributing
+
 We welcome contributions from the community!
 
 How to Contribute
+
 Fork the project
 Create your feature branch (git checkout -b feature/amazing-feature)
 Commit your changes
