@@ -36,3 +36,25 @@ Season 2 focuses on improved Builder Rank, Impact metrics, reward campaigns, and
 - Monthly rewards and campaigns
 - Leaderboards
 - Fully open-source
+# Talent Protocol - Season 2
+
+## About
+
+This repository contains the official frontend for **Season 02** of [Talent Protocol](https://talent.app).
+
+Talent Protocol is a web3 reputation platform that helps builders showcase their real contributions (smart contracts on Base, GitHub activity, etc.), participate in reward campaigns, earn rewards, and build their professional profile transparently.
+
+Season 2 brings improved Builder Rank, Impact metrics, better UX, and stronger community features.
+
+### Key Features
+- Builder reputation and ranking system
+- On-chain + GitHub contribution tracking
+- Monthly rewards campaigns
+- Leaderboards
+- Fully open-source
+
+## Installation & Setup
+
+```bash
+yarn install
+yarn start:dev
