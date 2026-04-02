@@ -21,7 +21,8 @@ We believe in openness and transparency. That's why everything is built in publi
 
 ```bash
 yarn install
-yarn start:devv
+yarn start:devv```
+
 Open http://localhost:8080 to view it locally.
 
 Contributing-
