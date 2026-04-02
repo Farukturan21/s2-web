@@ -21,7 +21,7 @@ We believe in openness and transparency. That's why everything is built in publi
 
 ```bash
 yarn install
-yarn start:devv```
+yarn start:dev
 
 Open http://localhost:8080 to view it locally.
 
@@ -38,6 +38,7 @@ Push to the branch
 Open a Pull Request
 
 Contributors
+
 @Farukturan21 — Extended README documentation and improvements
 Thank you to everyone who contributes to making Talent Protocol better! 
 
