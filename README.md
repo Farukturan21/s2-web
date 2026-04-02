@@ -1,4 +1,43 @@
+## About
 
+**Talent Protocol Season 2 Landing Page**
+
+This repository contains the official frontend for **Season 02** of [Talent Protocol](https://talent.app) — the leading web3 professional community for high-potential builders.
+
+Talent Protocol helps builders showcase their on-chain reputation, track real contributions (smart contracts, GitHub activity, etc.), participate in reward campaigns, and build their professional network in a transparent and decentralized way.
+
+Built with **Next.js**, **TypeScript**, and modern web technologies, this is the public landing page and web application for Season 2.
+
+### Key Features
+- Builder profiles and reputation system (Builder Rank & Impact)
+- Real-time contribution tracking (GitHub + on-chain)
+- Rewards campaigns and leaderboards
+- Season-based builder programs
+- Fully open-source and community-driven
+
+We believe in openness and transparency. That's why everything is built in public with the goal of progressive decentralization.
+
+## Contributing
+
+We welcome contributions from the community! Here's how you can help:
+
+- Fix typos or improve documentation
+- Report bugs by opening an Issue
+- Suggest new features
+- Submit Pull Requests with improvements
+
+### How to Contribute
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## Contributors
+
+- [@Farukturan21](https://github.com/Farukturan21) — Extended README documentation and improvements
+
+Thank you to everyone who contributes to making Talent Protocol better! 🚀
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 First, run the development server:
