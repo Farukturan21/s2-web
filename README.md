@@ -20,9 +20,8 @@ We believe in openness and transparency. That's why everything is built in publi
 ## Installation & Setup
 
 ```bash
-- yarn install
-- yarn start:devv
-
+yarn install
+yarn start:devv
 Open http://localhost:8080 to view it locally.
 
 Contributing-
