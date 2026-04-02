@@ -4,15 +4,18 @@
 
 This repository contains the official frontend for **Season 02** of [Talent Protocol](https://talent.app) — the leading web3 professional community for high-potential builders.
 
-Talent Protocol helps builders showcase their real on-chain reputation, track contributions (smart contracts on Base, GitHub activity, etc.), join reward campaigns, and build their professional profile transparently.
+Talent Protocol helps builders showcase their on-chain reputation, track real contributions (smart contracts, GitHub activity, etc.), participate in reward campaigns, and build their professional network in a transparent and decentralized way.
 
-Season 2 brings improved Builder Rank, Impact metrics, better user experience, and stronger community tools.
+Built with **Next.js**, **TypeScript**, and modern web technologies.
 
 ### Key Features
-- Builder reputation & ranking system
-- On-chain + GitHub contribution tracking
-- Monthly rewards campaigns and leaderboards
+- Builder profiles and reputation system (Builder Rank & Impact)
+- Real-time contribution tracking (GitHub + on-chain activity)
+- Rewards campaigns and leaderboards
+- Season-based builder programs
 - Fully open-source and community-driven
+
+We believe in openness and transparency. That's why everything is built in public with the goal of progressive decentralization.
 
 ## Installation & Setup
 
@@ -20,19 +23,13 @@ Season 2 brings improved Builder Rank, Impact metrics, better user experience, a
 yarn install
 yarn start:dev
 
-## Contributing
+Open http://localhost:8080 to view it locally.ContributingWe welcome contributions from the community!How to ContributeFork the project
+Create your feature branch (git checkout -b feature/amazing-feature)
+Commit your changes
+Push to the branch
+Open a Pull Request
 
-We welcome contributions from the community!
+Contributors@Farukturan21 — Extended README documentation and improvements
 
-### How to Contribute
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes
-4. Push to the branch
-5. Open a Pull Request
+Thank you to everyone who contributes to making Talent Protocol better! 
 
-## Contributors
-
-- [@Farukturan21](https://github.com/Farukturan21) — Extended README documentation and improvements
-
-Thank you to everyone who contributes to making Talent Protocol better! 🚀
