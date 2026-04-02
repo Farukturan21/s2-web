@@ -22,7 +22,6 @@ We believe in openness and transparency. That's why everything is built in publi
 ```bash
 yarn install
 yarn start:dev
-
 Open http://localhost:8080 to view it locally.ContributingWe welcome contributions from the community!How to ContributeFork the project
 Create your feature branch (git checkout -b feature/amazing-feature)
 Commit your changes
@@ -32,4 +31,6 @@ Open a Pull Request
 Contributors@Farukturan21 — Extended README documentation and improvements
 
 Thank you to everyone who contributes to making Talent Protocol better! 
+
+
 
