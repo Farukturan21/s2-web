@@ -22,7 +22,9 @@ We believe in openness and transparency. That's why everything is built in publi
 ```bash
 yarn install
 yarn start:dev
-Open http://localhost:8080 to view it locally.ContributingWe welcome contributions from the community!How to ContributeFork the project
+
+Open http://localhost:8080 to view it locally.
+ContributingWe welcome contributions from the community!How to ContributeFork the project
 Create your feature branch (git checkout -b feature/amazing-feature)
 Commit your changes
 Push to the branch
